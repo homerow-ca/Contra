@@ -10,3 +10,6 @@
 [submodule "kicad_lib_tmk"]
 	path = kicad_lib_tmk
 	url = https://github.com/tmk/kicad_lib_tmk
+[submodule "homerow-logos"]
+	path = homerow-logos
+	url = git@github.com:homerow-ca/homerow-logos.git
