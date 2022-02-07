@@ -49,3 +49,6 @@ Temporary Items
 # KiCad files
 Contra-backups
 fp-info-cache
+fp-lib-table
+sym-lib-table
+*.kicad_pcb-bak
